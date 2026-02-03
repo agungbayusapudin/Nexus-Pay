@@ -1,0 +1,29 @@
+# Binaries
+bin/
+dist/
+obj/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Coverage & Debug
+*.out
+*.prof
+*.log
+
+# Go Modules Vendor (optional)
+# vendor/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.*
+!.env.example
